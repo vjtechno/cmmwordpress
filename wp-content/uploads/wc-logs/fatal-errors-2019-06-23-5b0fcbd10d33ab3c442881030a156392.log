@@ -1,0 +1,266 @@
+2019-06-23T08:42:57+00:00 CRITICAL Uncaught Error: Call to undefined function storefront_header_styles() in /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-content/themes/storefront/header.php:28
+Stack trace:
+#0 /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-includes/template.php(722): require_once()
+#1 /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-includes/template.php(671): load_template('/home/codemymob...', true)
+#2 /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-includes/general-template.php(41): locate_template(Array, true)
+#3 /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-content/themes/storefront/template-fullwidth.php(10): get_header()
+#4 /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-includes/template-loader.php(78): include('/home/codemymob...')
+#5 /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-blog-header.php(19): require_once('/home/codemymob...')
+#6 /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/index.php(17): require('/home/codemymob...')
+#7 {mai in /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-content/themes/storefront/header.php on line 28
+
+2019-06-23T08:43:01+00:00 CRITICAL Uncaught Error: Call to undefined function storefront_header_styles() in /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-content/themes/storefront/header.php:28
+Stack trace:
+#0 /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-includes/template.php(722): require_once()
+#1 /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-includes/template.php(671): load_template('/home/codemymob...', true)
+#2 /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-includes/general-template.php(41): locate_template(Array, true)
+#3 /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-content/themes/storefront/template-fullwidth.php(10): get_header()
+#4 /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-includes/template-loader.php(78): include('/home/codemymob...')
+#5 /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-blog-header.php(19): require_once('/home/codemymob...')
+#6 /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/index.php(17): require('/home/codemymob...')
+#7 {mai in /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-content/themes/storefront/header.php on line 28
+
+2019-06-23T08:43:06+00:00 CRITICAL Uncaught Error: Call to undefined function storefront_header_styles() in /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-content/themes/storefront/header.php:28
+Stack trace:
+#0 /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-includes/template.php(722): require_once()
+#1 /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-includes/template.php(671): load_template('/home/codemymob...', true)
+#2 /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-includes/general-template.php(41): locate_template(Array, true)
+#3 /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-content/themes/storefront/template-fullwidth.php(10): get_header()
+#4 /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-includes/template-loader.php(78): include('/home/codemymob...')
+#5 /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-blog-header.php(19): require_once('/home/codemymob...')
+#6 /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/index.php(17): require('/home/codemymob...')
+#7 {mai in /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-content/themes/storefront/header.php on line 28
+
+2019-06-23T08:43:07+00:00 CRITICAL Uncaught Error: Call to undefined function storefront_header_styles() in /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-content/themes/storefront/header.php:28
+Stack trace:
+#0 /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-includes/template.php(722): require_once()
+#1 /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-includes/template.php(671): load_template('/home/codemymob...', true)
+#2 /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-includes/general-template.php(41): locate_template(Array, true)
+#3 /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-content/themes/storefront/template-fullwidth.php(10): get_header()
+#4 /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-includes/template-loader.php(78): include('/home/codemymob...')
+#5 /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-blog-header.php(19): require_once('/home/codemymob...')
+#6 /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/index.php(17): require('/home/codemymob...')
+#7 {mai in /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-content/themes/storefront/header.php on line 28
+
+2019-06-23T08:43:08+00:00 CRITICAL Uncaught Error: Call to undefined function storefront_header_styles() in /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-content/themes/storefront/header.php:28
+Stack trace:
+#0 /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-includes/template.php(722): require_once()
+#1 /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-includes/template.php(671): load_template('/home/codemymob...', true)
+#2 /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-includes/general-template.php(41): locate_template(Array, true)
+#3 /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-content/themes/storefront/template-fullwidth.php(10): get_header()
+#4 /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-includes/template-loader.php(78): include('/home/codemymob...')
+#5 /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-blog-header.php(19): require_once('/home/codemymob...')
+#6 /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/index.php(17): require('/home/codemymob...')
+#7 {mai in /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-content/themes/storefront/header.php on line 28
+
+2019-06-23T08:43:15+00:00 CRITICAL Uncaught Error: Call to undefined function storefront_header_styles() in /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-content/themes/storefront/header.php:28
+Stack trace:
+#0 /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-includes/template.php(722): require_once()
+#1 /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-includes/template.php(671): load_template('/home/codemymob...', true)
+#2 /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-includes/general-template.php(41): locate_template(Array, true)
+#3 /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-content/themes/storefront/template-fullwidth.php(10): get_header()
+#4 /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-includes/template-loader.php(78): include('/home/codemymob...')
+#5 /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-blog-header.php(19): require_once('/home/codemymob...')
+#6 /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/index.php(17): require('/home/codemymob...')
+#7 {mai in /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-content/themes/storefront/header.php on line 28
+
+2019-06-23T09:05:51+00:00 CRITICAL Uncaught Error: Call to a member function remove_coupon() on null in /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-content/plugins/woocommerce/templates/cart/cart-totals.php:42
+Stack trace:
+#0 /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include()
+#1 /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-content/plugins/woocommerce/includes/wc-template-functions.php(2011): wc_get_template('cart/cart-total...')
+#2 /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-includes/class-wp-hook.php(286): woocommerce_cart_totals('')
+#3 /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#4 /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#5 /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-content/plugins/woocommerce/templates/cart/cart.php(163): do_action('woocommerce_car...')
+# in /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-content/plugins/woocommerce/templates/cart/cart-totals.php on line 42
+
+2019-06-23T09:06:43+00:00 CRITICAL Uncaught Error: Call to a member function remove_coupon() on null in /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-content/plugins/woocommerce/templates/cart/cart-totals.php:46
+Stack trace:
+#0 /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include()
+#1 /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-content/plugins/woocommerce/includes/wc-template-functions.php(2011): wc_get_template('cart/cart-total...')
+#2 /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-includes/class-wp-hook.php(286): woocommerce_cart_totals('')
+#3 /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#4 /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#5 /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-content/plugins/woocommerce/templates/cart/cart.php(163): do_action('woocommerce_car...')
+# in /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-content/plugins/woocommerce/templates/cart/cart-totals.php on line 46
+
+2019-06-23T09:06:45+00:00 CRITICAL Uncaught Error: Call to a member function remove_coupon() on null in /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-content/plugins/woocommerce/templates/cart/cart-totals.php:46
+Stack trace:
+#0 /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include()
+#1 /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-content/plugins/woocommerce/includes/wc-template-functions.php(2011): wc_get_template('cart/cart-total...')
+#2 /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-includes/class-wp-hook.php(286): woocommerce_cart_totals('')
+#3 /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#4 /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#5 /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-content/plugins/woocommerce/templates/cart/cart.php(163): do_action('woocommerce_car...')
+# in /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-content/plugins/woocommerce/templates/cart/cart-totals.php on line 46
+
+2019-06-23T09:06:48+00:00 CRITICAL Uncaught Error: Call to a member function remove_coupon() on null in /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-content/plugins/woocommerce/templates/cart/cart-totals.php:46
+Stack trace:
+#0 /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include()
+#1 /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-content/plugins/woocommerce/includes/wc-template-functions.php(2011): wc_get_template('cart/cart-total...')
+#2 /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-includes/class-wp-hook.php(286): woocommerce_cart_totals('')
+#3 /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#4 /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#5 /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-content/plugins/woocommerce/templates/cart/cart.php(163): do_action('woocommerce_car...')
+# in /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-content/plugins/woocommerce/templates/cart/cart-totals.php on line 46
+
+2019-06-23T09:26:31+00:00 CRITICAL Uncaught Error: Call to undefined function wc_coupons_remove() in /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-content/plugins/woocommerce/templates/cart/cart.php:141
+Stack trace:
+#0 /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include()
+#1 /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-cart.php(93): wc_get_template('cart/cart.php')
+#2 /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(72): WC_Shortcode_Cart::output(Array)
+#3 /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(85): WC_Shortcodes::shortcode_wrapper(Array)
+#4 /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-includes/shortcodes.php(325): WC_Shortcodes::cart('', '', 'woocommerce_car...')
+#5 [internal function]: do_shortcode_tag(Array)
+#6 / in /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-content/plugins/woocommerce/templates/cart/cart.php on line 141
+
+2019-06-23T09:26:35+00:00 CRITICAL Uncaught Error: Call to undefined function wc_coupons_remove() in /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-content/plugins/woocommerce/templates/cart/cart.php:141
+Stack trace:
+#0 /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include()
+#1 /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-cart.php(93): wc_get_template('cart/cart.php')
+#2 /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(72): WC_Shortcode_Cart::output(Array)
+#3 /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(85): WC_Shortcodes::shortcode_wrapper(Array)
+#4 /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-includes/shortcodes.php(325): WC_Shortcodes::cart('', '', 'woocommerce_car...')
+#5 [internal function]: do_shortcode_tag(Array)
+#6 / in /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-content/plugins/woocommerce/templates/cart/cart.php on line 141
+
+2019-06-23T09:43:52+00:00 CRITICAL Uncaught Error: Call to a member function remove_coupon() on null in /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-content/plugins/woocommerce/templates/cart/cart-totals.php:50
+Stack trace:
+#0 /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include()
+#1 /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-content/plugins/woocommerce/includes/wc-template-functions.php(2011): wc_get_template('cart/cart-total...')
+#2 /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-includes/class-wp-hook.php(286): woocommerce_cart_totals('')
+#3 /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#4 /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#5 /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-content/plugins/woocommerce/templates/cart/cart.php(165): do_action('woocommerce_car...')
+# in /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-content/plugins/woocommerce/templates/cart/cart-totals.php on line 50
+
+2019-06-23T09:43:55+00:00 CRITICAL Uncaught Error: Call to a member function remove_coupon() on null in /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-content/plugins/woocommerce/templates/cart/cart-totals.php:50
+Stack trace:
+#0 /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include()
+#1 /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-content/plugins/woocommerce/includes/wc-template-functions.php(2011): wc_get_template('cart/cart-total...')
+#2 /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-includes/class-wp-hook.php(286): woocommerce_cart_totals('')
+#3 /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#4 /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#5 /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-content/plugins/woocommerce/templates/cart/cart.php(165): do_action('woocommerce_car...')
+# in /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-content/plugins/woocommerce/templates/cart/cart-totals.php on line 50
+
+2019-06-23T09:43:58+00:00 CRITICAL Uncaught Error: Call to a member function remove_coupon() on null in /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-content/plugins/woocommerce/templates/cart/cart-totals.php:50
+Stack trace:
+#0 /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include()
+#1 /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-content/plugins/woocommerce/includes/wc-template-functions.php(2011): wc_get_template('cart/cart-total...')
+#2 /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-includes/class-wp-hook.php(286): woocommerce_cart_totals('')
+#3 /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#4 /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#5 /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-content/plugins/woocommerce/templates/cart/cart.php(165): do_action('woocommerce_car...')
+# in /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-content/plugins/woocommerce/templates/cart/cart-totals.php on line 50
+
+2019-06-23T09:44:02+00:00 CRITICAL Uncaught Error: Call to a member function remove_coupon() on null in /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-content/plugins/woocommerce/templates/cart/cart-totals.php:50
+Stack trace:
+#0 /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include()
+#1 /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-content/plugins/woocommerce/includes/wc-template-functions.php(2011): wc_get_template('cart/cart-total...')
+#2 /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-includes/class-wp-hook.php(286): woocommerce_cart_totals('')
+#3 /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#4 /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#5 /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-content/plugins/woocommerce/templates/cart/cart.php(165): do_action('woocommerce_car...')
+# in /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-content/plugins/woocommerce/templates/cart/cart-totals.php on line 50
+
+2019-06-23T09:44:08+00:00 CRITICAL Uncaught Error: Call to a member function remove_coupon() on null in /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-content/plugins/woocommerce/templates/cart/cart-totals.php:50
+Stack trace:
+#0 /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include()
+#1 /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-content/plugins/woocommerce/includes/wc-template-functions.php(2011): wc_get_template('cart/cart-total...')
+#2 /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-includes/class-wp-hook.php(286): woocommerce_cart_totals('')
+#3 /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#4 /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#5 /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-content/plugins/woocommerce/templates/cart/cart.php(165): do_action('woocommerce_car...')
+# in /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-content/plugins/woocommerce/templates/cart/cart-totals.php on line 50
+
+2019-06-23T09:47:57+00:00 CRITICAL syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-content/themes/storefront/functions.php on line 273
+
+2019-06-23T09:48:15+00:00 CRITICAL syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-content/themes/storefront/functions.php on line 273
+
+2019-06-23T09:48:16+00:00 CRITICAL syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-content/themes/storefront/functions.php on line 273
+
+2019-06-23T09:48:16+00:00 CRITICAL syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-content/themes/storefront/functions.php on line 273
+
+2019-06-23T09:48:16+00:00 CRITICAL syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-content/themes/storefront/functions.php on line 273
+
+2019-06-23T09:49:23+00:00 CRITICAL syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-content/themes/storefront/functions.php on line 273
+
+2019-06-23T09:51:23+00:00 CRITICAL syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-content/themes/storefront/functions.php on line 273
+
+2019-06-23T09:53:23+00:00 CRITICAL syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-content/themes/storefront/functions.php on line 273
+
+2019-06-23T09:56:49+00:00 CRITICAL syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-content/themes/storefront/functions.php on line 265
+
+2019-06-23T09:56:52+00:00 CRITICAL syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-content/themes/storefront/functions.php on line 265
+
+2019-06-23T09:56:55+00:00 CRITICAL syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-content/themes/storefront/functions.php on line 265
+
+2019-06-23T09:56:56+00:00 CRITICAL syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-content/themes/storefront/functions.php on line 265
+
+2019-06-23T09:57:01+00:00 CRITICAL syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-content/themes/storefront/functions.php on line 265
+
+2019-06-23T09:57:13+00:00 CRITICAL syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-content/themes/storefront/functions.php on line 265
+
+2019-06-23T09:57:14+00:00 CRITICAL syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-content/themes/storefront/functions.php on line 265
+
+2019-06-23T09:57:49+00:00 CRITICAL syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-content/themes/storefront/functions.php on line 265
+
+2019-06-23T09:59:50+00:00 CRITICAL syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-content/themes/storefront/functions.php on line 265
+
+2019-06-23T10:01:51+00:00 CRITICAL syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-content/themes/storefront/functions.php on line 265
+
+2019-06-23T10:18:23+00:00 CRITICAL syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-content/themes/storefront/functions.php on line 275
+
+2019-06-23T10:18:39+00:00 CRITICAL syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-content/themes/storefront/functions.php on line 275
+
+2019-06-23T10:18:51+00:00 CRITICAL syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-content/themes/storefront/functions.php on line 275
+
+2019-06-23T10:18:51+00:00 CRITICAL syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-content/themes/storefront/functions.php on line 275
+
+2019-06-23T10:19:05+00:00 CRITICAL syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-content/themes/storefront/functions.php on line 275
+
+2019-06-23T10:19:06+00:00 CRITICAL syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-content/themes/storefront/functions.php on line 275
+
+2019-06-23T10:19:06+00:00 CRITICAL syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-content/themes/storefront/functions.php on line 275
+
+2019-06-23T10:19:07+00:00 CRITICAL syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-content/themes/storefront/functions.php on line 275
+
+2019-06-23T10:19:08+00:00 CRITICAL syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-content/themes/storefront/functions.php on line 275
+
+2019-06-23T10:19:08+00:00 CRITICAL syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-content/themes/storefront/functions.php on line 275
+
+2019-06-23T10:19:09+00:00 CRITICAL syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-content/themes/storefront/functions.php on line 275
+
+2019-06-23T10:19:09+00:00 CRITICAL syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-content/themes/storefront/functions.php on line 275
+
+2019-06-23T10:19:09+00:00 CRITICAL syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-content/themes/storefront/functions.php on line 275
+
+2019-06-23T10:19:09+00:00 CRITICAL syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-content/themes/storefront/functions.php on line 275
+
+2019-06-23T10:19:10+00:00 CRITICAL syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-content/themes/storefront/functions.php on line 275
+
+2019-06-23T10:19:10+00:00 CRITICAL syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-content/themes/storefront/functions.php on line 275
+
+2019-06-23T10:19:10+00:00 CRITICAL syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-content/themes/storefront/functions.php on line 275
+
+2019-06-23T10:19:11+00:00 CRITICAL syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-content/themes/storefront/functions.php on line 275
+
+2019-06-23T10:19:29+00:00 CRITICAL syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-content/themes/storefront/functions.php on line 275
+
+2019-06-23T10:19:30+00:00 CRITICAL syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-content/themes/storefront/functions.php on line 275
+
+2019-06-23T10:19:30+00:00 CRITICAL syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-content/themes/storefront/functions.php on line 275
+
+2019-06-23T10:19:31+00:00 CRITICAL syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-content/themes/storefront/functions.php on line 275
+
+2019-06-23T10:19:32+00:00 CRITICAL syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-content/themes/storefront/functions.php on line 275
+
+2019-06-23T10:19:32+00:00 CRITICAL syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-content/themes/storefront/functions.php on line 275
+
+2019-06-23T10:19:33+00:00 CRITICAL syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-content/themes/storefront/functions.php on line 275
+
+2019-06-23T10:19:33+00:00 CRITICAL syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-content/themes/storefront/functions.php on line 275
+
+2019-06-23T10:19:34+00:00 CRITICAL syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-content/themes/storefront/functions.php on line 275
+

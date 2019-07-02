@@ -1,0 +1,20 @@
+2019-06-20T07:07:02+00:00 CRITICAL syntax error, unexpected '-', expecting '(' in /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-content/plugins/woocommerce/templates/cart/cart.php on line 167
+
+2019-06-20T07:07:07+00:00 CRITICAL syntax error, unexpected '-', expecting '(' in /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-content/plugins/woocommerce/templates/cart/cart.php on line 167
+
+2019-06-20T07:07:09+00:00 CRITICAL syntax error, unexpected '-', expecting '(' in /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-content/plugins/woocommerce/templates/cart/cart.php on line 167
+
+2019-06-20T13:16:01+00:00 CRITICAL syntax error, unexpected 'elseif' (T_ELSEIF), expecting end of file in /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-content/themes/storefront/functions.php on line 52
+
+2019-06-20T13:16:04+00:00 CRITICAL syntax error, unexpected 'elseif' (T_ELSEIF), expecting end of file in /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-content/themes/storefront/functions.php on line 52
+
+2019-06-20T13:16:13+00:00 CRITICAL syntax error, unexpected 'elseif' (T_ELSEIF), expecting end of file in /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-content/themes/storefront/functions.php on line 52
+
+2019-06-20T13:16:46+00:00 CRITICAL syntax error, unexpected 'elseif' (T_ELSEIF), expecting end of file in /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-content/themes/storefront/functions.php on line 52
+
+2019-06-20T13:16:46+00:00 CRITICAL syntax error, unexpected 'elseif' (T_ELSEIF), expecting end of file in /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-content/themes/storefront/functions.php on line 52
+
+2019-06-20T13:17:00+00:00 CRITICAL syntax error, unexpected 'elseif' (T_ELSEIF), expecting end of file in /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-content/themes/storefront/functions.php on line 52
+
+2019-06-20T13:19:11+00:00 CRITICAL syntax error, unexpected ')' in /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-content/themes/storefront/functions.php on line 44
+

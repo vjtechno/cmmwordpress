@@ -1,0 +1,119 @@
+2019-06-24T07:18:04+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Cart::cart_contenta_total() in /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-content/themes/storefront/inc/woocommerce/storefront-woocommerce-template-functions.php:77
+Stack trace:
+#0 /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-content/themes/storefront/inc/woocommerce/storefront-woocommerce-template-functions.php(120): storefront_cart_link()
+#1 /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-includes/class-wp-hook.php(286): storefront_header_cart('')
+#2 /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#3 /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#4 /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-content/themes/storefront/header.php(46): do_action('storefront_head...')
+#5 /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-includes/template.php(722): require_once('/home/c in /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-content/themes/storefront/inc/woocommerce/storefront-woocommerce-template-functions.php on line 77
+
+2019-06-24T07:18:06+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Cart::cart_contenta_total() in /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-content/themes/storefront/inc/woocommerce/storefront-woocommerce-template-functions.php:77
+Stack trace:
+#0 /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-content/themes/storefront/inc/woocommerce/storefront-woocommerce-template-functions.php(120): storefront_cart_link()
+#1 /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-includes/class-wp-hook.php(286): storefront_header_cart('')
+#2 /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#3 /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#4 /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-content/themes/storefront/header.php(46): do_action('storefront_head...')
+#5 /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-includes/template.php(722): require_once('/home/c in /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-content/themes/storefront/inc/woocommerce/storefront-woocommerce-template-functions.php on line 77
+
+2019-06-24T07:18:20+00:00 CRITICAL syntax error, unexpected ';', expecting ')' in /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-content/themes/storefront/inc/woocommerce/storefront-woocommerce-template-functions.php on line 77
+
+2019-06-24T07:23:55+00:00 CRITICAL Uncaught Error: Call to a member function is_empty() on null in /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-content/themes/storefront/inc/woocommerce/storefront-woocommerce-template-functions.php:25
+Stack trace:
+#0 /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-content/themes/storefront/functions.php(252): require()
+#1 /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-settings.php(499): include('/home/codemymob...')
+#2 /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-config.php(95): require_once('/home/codemymob...')
+#3 /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-load.php(37): require_once('/home/codemymob...')
+#4 /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-blog-header.php(13): require_once('/home/codemymob...')
+#5 /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/index.php(17): require('/home/codemymob...')
+#6 {main}
+  thrown in /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-content/themes/storefront/inc/woocommerce/storefront-woocommerce-template-functions.php on line 25
+
+2019-06-24T07:23:57+00:00 CRITICAL Uncaught Error: Call to a member function is_empty() on null in /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-content/themes/storefront/inc/woocommerce/storefront-woocommerce-template-functions.php:25
+Stack trace:
+#0 /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-content/themes/storefront/functions.php(252): require()
+#1 /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-settings.php(499): include('/home/codemymob...')
+#2 /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-config.php(95): require_once('/home/codemymob...')
+#3 /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-load.php(37): require_once('/home/codemymob...')
+#4 /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-blog-header.php(13): require_once('/home/codemymob...')
+#5 /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/index.php(17): require('/home/codemymob...')
+#6 {main}
+  thrown in /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-content/themes/storefront/inc/woocommerce/storefront-woocommerce-template-functions.php on line 25
+
+2019-06-24T07:23:57+00:00 CRITICAL Uncaught Error: Call to a member function is_empty() on null in /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-content/themes/storefront/inc/woocommerce/storefront-woocommerce-template-functions.php:25
+Stack trace:
+#0 /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-content/themes/storefront/functions.php(252): require()
+#1 /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-settings.php(499): include('/home/codemymob...')
+#2 /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-config.php(95): require_once('/home/codemymob...')
+#3 /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-load.php(37): require_once('/home/codemymob...')
+#4 /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-blog-header.php(13): require_once('/home/codemymob...')
+#5 /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/index.php(17): require('/home/codemymob...')
+#6 {main}
+  thrown in /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-content/themes/storefront/inc/woocommerce/storefront-woocommerce-template-functions.php on line 25
+
+2019-06-24T07:23:58+00:00 CRITICAL Uncaught Error: Call to a member function is_empty() on null in /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-content/themes/storefront/inc/woocommerce/storefront-woocommerce-template-functions.php:25
+Stack trace:
+#0 /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-content/themes/storefront/functions.php(252): require()
+#1 /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-settings.php(499): include('/home/codemymob...')
+#2 /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-config.php(95): require_once('/home/codemymob...')
+#3 /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-load.php(37): require_once('/home/codemymob...')
+#4 /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-blog-header.php(13): require_once('/home/codemymob...')
+#5 /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/index.php(17): require('/home/codemymob...')
+#6 {main}
+  thrown in /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-content/themes/storefront/inc/woocommerce/storefront-woocommerce-template-functions.php on line 25
+
+2019-06-24T07:23:59+00:00 CRITICAL Uncaught Error: Call to a member function is_empty() on null in /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-content/themes/storefront/inc/woocommerce/storefront-woocommerce-template-functions.php:25
+Stack trace:
+#0 /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-content/themes/storefront/functions.php(252): require()
+#1 /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-settings.php(499): include('/home/codemymob...')
+#2 /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-config.php(95): require_once('/home/codemymob...')
+#3 /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-load.php(37): require_once('/home/codemymob...')
+#4 /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-blog-header.php(13): require_once('/home/codemymob...')
+#5 /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/index.php(17): require('/home/codemymob...')
+#6 {main}
+  thrown in /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-content/themes/storefront/inc/woocommerce/storefront-woocommerce-template-functions.php on line 25
+
+2019-06-24T07:31:51+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Cart::cart_contents_total() in /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-content/themes/storefront/inc/woocommerce/storefront-woocommerce-template-functions.php:77
+Stack trace:
+#0 /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-content/themes/storefront/inc/woocommerce/storefront-woocommerce-template-functions.php(120): storefront_cart_link()
+#1 /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-includes/class-wp-hook.php(286): storefront_header_cart('')
+#2 /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#3 /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#4 /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-content/themes/storefront/header.php(46): do_action('storefront_head...')
+#5 /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-includes/template.php(722): require_once('/home/c in /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-content/themes/storefront/inc/woocommerce/storefront-woocommerce-template-functions.php on line 77
+
+2019-06-24T07:31:54+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Cart::cart_contents_total() in /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-content/themes/storefront/inc/woocommerce/storefront-woocommerce-template-functions.php:77
+Stack trace:
+#0 /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-content/themes/storefront/inc/woocommerce/storefront-woocommerce-template-functions.php(120): storefront_cart_link()
+#1 /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-includes/class-wp-hook.php(286): storefront_header_cart('')
+#2 /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#3 /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#4 /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-content/themes/storefront/header.php(46): do_action('storefront_head...')
+#5 /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-includes/template.php(722): require_once('/home/c in /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-content/themes/storefront/inc/woocommerce/storefront-woocommerce-template-functions.php on line 77
+
+2019-06-24T07:33:21+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Cart::cart_subtotal() in /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-content/themes/storefront/inc/woocommerce/storefront-woocommerce-template-functions.php:77
+Stack trace:
+#0 /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-content/themes/storefront/inc/woocommerce/storefront-woocommerce-template-functions.php(120): storefront_cart_link()
+#1 /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-includes/class-wp-hook.php(286): storefront_header_cart('')
+#2 /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#3 /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#4 /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-content/themes/storefront/header.php(46): do_action('storefront_head...')
+#5 /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-includes/template.php(722): require_once('/home/codemym in /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-content/themes/storefront/inc/woocommerce/storefront-woocommerce-template-functions.php on line 77
+
+2019-06-24T07:33:23+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Cart::cart_subtotal() in /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-content/themes/storefront/inc/woocommerce/storefront-woocommerce-template-functions.php:77
+Stack trace:
+#0 /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-content/themes/storefront/inc/woocommerce/storefront-woocommerce-template-functions.php(120): storefront_cart_link()
+#1 /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-includes/class-wp-hook.php(286): storefront_header_cart('')
+#2 /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#3 /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#4 /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-content/themes/storefront/header.php(46): do_action('storefront_head...')
+#5 /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-includes/template.php(722): require_once('/home/codemym in /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-content/themes/storefront/inc/woocommerce/storefront-woocommerce-template-functions.php on line 77
+
+2019-06-24T12:17:43+00:00 CRITICAL syntax error, unexpected '<' in /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-content/themes/storefront/functions.php on line 219
+
+2019-06-24T12:17:44+00:00 CRITICAL syntax error, unexpected '<' in /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-content/themes/storefront/functions.php on line 219
+
+2019-06-24T12:17:44+00:00 CRITICAL syntax error, unexpected '<' in /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-content/themes/storefront/functions.php on line 219
+
+2019-06-24T12:17:45+00:00 CRITICAL syntax error, unexpected '<' in /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-content/themes/storefront/functions.php on line 219
+

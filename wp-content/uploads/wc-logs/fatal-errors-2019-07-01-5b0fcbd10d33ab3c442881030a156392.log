@@ -1,0 +1,2 @@
+2019-07-01T08:59:38+00:00 CRITICAL Cannot redeclare themestyle() (previously declared in /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-content/themes/theme2/functions.php:4) in /home/codemymobile/Downloads/wordpress-5.2.1/wordpress/wp-content/themes/theme2/front-page.php on line 5
+
